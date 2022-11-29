@@ -16,7 +16,7 @@ Code was written in HTML with internal styling and scripting.
 
 # Useful Websites
 
-* [Display a Pop-Up](https://developers.arcgis.com/javascript/latest/display-a-pop-up/\)
+* [Display a Pop-Up](https://developers.arcgis.com/javascript/latest/display-a-pop-up/)
 * [Find a Route and Directions](https://developers.arcgis.com/javascript/latest/find-a-route-and-directions/)
 * [HIFLD Hospitals](https://www.arcgis.com/home/item.html?id=f36521f6e07f4a859e838f0ad7536898)
 
